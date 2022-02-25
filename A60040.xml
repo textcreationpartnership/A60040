@@ -1,0 +1,397 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short account of the proceedings of the College of Physicians, London, in relation to the sick poor of the said city, and suburbs thereof, with the reasons which have induced the College to make medicines for them at the intrinsick value</title>
+            <author>Royal College of Physicians of London.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60040</idno>
+            <idno type="STC">Wing S3543</idno>
+            <idno type="STC">ESTC R11111</idno>
+            <idno type="EEBO-CITATION">11910381</idno>
+            <idno type="OCLC">ocm 11910381</idno>
+            <idno type="VID">50780</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60040)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50780)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 512:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short account of the proceedings of the College of Physicians, London, in relation to the sick poor of the said city, and suburbs thereof, with the reasons which have induced the College to make medicines for them at the intrinsick value</title>
+                  <author>Royal College of Physicians of London.</author>
+               </titleStmt>
+               <extent>[3], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royal College of Physicians of London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="recommendation_to_print">
+            <pb facs="tcp:50780:1"/>
+            <p>THIS Following Treatiſe [A ſhort Account of the Proceedings of the College of Phyſicians, <hi>&amp;c.</hi>] having been conſidered and examined by the Com<g ref="char:EOLhyphen"/>mittee of the ſaid College, they thought fit to recommend it to the Preſident and Cenſors to be publiſhed.</p>
+         </div>
+         <div type="imprimatur">
+            <p>IMPRIMATUR.</p>
+            <closer>
+               <dateline>
+                  <hi>Datum ex Aedibus Collegii noſtri in Comitiis Cenſoriis</hi> 
+                  <date>Junii 11. 1697.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Tho. Millington, <hi>Praeſes.</hi>
+                     </item>
+                     <item>
+                        <list>
+                           <item>Tho. Burwell,</item>
+                           <item>Rich. Torleſs,</item>
+                           <item>W. Dawes,</item>
+                           <item>Tho. Gill,</item>
+                        </list>
+Cenſors.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:50780:1"/>
+            <p>A Short Account OF THE PROCEEDINGS OF THE College of Phyſicians, <hi>London,</hi> In relation to the SICK POOR Of the ſaid CITY and SUBURBS thereof, With the Reaſons which have induced the College to make Medicines for them at the Intrinſick Value.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="physicians_proceedings">
+            <pb facs="tcp:50780:2"/>
+            <pb n="1" facs="tcp:50780:2"/>
+            <head>A Short Account OF THE PROCEEDINGS OF THE College of Phyſicians, <hi>London,</hi> In relation to the Sick Poor, &amp;c.</head>
+            <p>SINCE it hath been the fate of many good Undertakings though in themſelves highly beneficial to the Publick, to miſcarry and come to nothing, not ſo much by the <hi>open oppoſition</hi> of intereſſed and deſigning Perſons, as by their <hi>private inſinuations</hi> and <hi>miſrepreſentations,</hi> whereby they prepoſſeſs the People to their own great hurt and damage: That the like miſ<g ref="char:EOLhyphen"/>fortune may not befal the charitable Deſign now ſet on foot by the <hi>College of Phyſicians, LONDON,</hi> for the Relief of the <hi>Poor Sick</hi>
+               <pb n="2" facs="tcp:50780:3"/>in and about this great City and Suburbs, We have thought it ne<g ref="char:EOLhyphen"/>ceſſary to give a ſhort hiſtorical account of the Riſe and Progreſs of this matter, whereby we hope it will appear, That this Undertaking, as it was ſeveral years ſince begun (before there were any differences or miſunderſtandings either amongſt our ſelves, or with the Apothe<g ref="char:EOLhyphen"/>caries) upon no other ground but the commiſeration of the deplo<g ref="char:EOLhyphen"/>rable condition of the Poor Sick, (eſpecially poor Houſe-keepers) not uſually taken care of by the Pariſhes; ſo alſo that the ſame hath been ever ſince carried on with the ſame honeſt intention: And we doubt not but a work ſo advantagious to the Sick Poor, and ſo honourable to this City, will in the ſame manner be ſhortly finiſh'd and brought to its utmoſt perfection.</p>
+            <p>To omit therefore what has in former times been attempted of this nature by our Predeceſſors (of whoſe early Charity we have ſeveral Inſtances recorded in our Annals) the firſt ſtep we find tending directly to this purpoſe is a Vote of the College in their publick Meeting, <hi>July</hi> 28. 1687. to this effect: <q rend="margQuotes">It was this day appointed and ordained by the <hi>
+                     <g ref="char:V">Ʋ</g>nanimous Vote</hi> of the College, That all the Members thereof, whether Fellows, Candidates, or Licentiates of the ſaid College, ſhall give their advice <hi>gratis</hi> to all their ſick neighbouring Poor, when deſired, within the City of <hi>London,</hi> or ſeven miles round.</q>
+            </p>
+            <p>This Order being carried by ſeveral of the Members of the Col<g ref="char:EOLhyphen"/>lege to the Lord Mayor and Court of Aldermen, They (<hi>Aug.</hi> 23. 1687.) did by Dr. <hi>Betts,</hi> one of our Elects, return the College Thanks for this their charitable Order; with this further requeſt to the College, That they would explain themſelves, as to whom they meant by <hi>Poor?</hi> which they did, by declaring, That all thoſe ſhould be eſteemed <hi>Poor,</hi> that brought Certificates under the hand of the Rector, Vicar or Curate of the Pariſh wherein they dwelt, of their being ſuch.</p>
+            <p>An account of this was by the reſpective Aldermen ſent to each Ward. But partly by the induſtry of ſome Perſons, with whoſe private Gain it was not ſo conſiſtent, and eſpecially by reaſon of the high Prices of Medicines above the purchace of Poor Houſe<g ref="char:EOLhyphen"/>keepers, it was for that time ſtifled. Which the College perceiving, and deſirous that ſo good an Intention to ſo many poor People might not be fruſtrated, ſeveral methods for the removing this obſtruction
+<pb n="3" facs="tcp:50780:3"/>were propoſed at their general Meetings, as, The expending all the Fines of the College in providing Phyſick for the Poor, and the like: And at laſt they came to this Reſolution, (which was paſt into an Order, <hi>Aug.</hi> 13. 1688.) <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>The College having conſidered that the Charitable Vote which for<g ref="char:EOLhyphen"/>merly paſſed for preſcribing to the Poor</hi> gratis, <hi>hath not had the effect intended, by reaſon of the great Prices they are obliged to pay for their Medicines, have this day unanimouſly voted, That the Labo<g ref="char:EOLhyphen"/>ratory of the College be forthwith fitted up for preparing Medi<g ref="char:EOLhyphen"/>cines for the Poor, and alſo the room adjoyning for a Repoſitory.</hi> And the College further gave a power to thoſe Members who would ſubſcribe to this Charitable Work, to chooſe a Committee from among themſelves who ſhould order what Compoſitions and Simples ſhould be kept at the College for the benefit of the Poor, and ma<g ref="char:EOLhyphen"/>nage the whole affair as they thought fit.</p>
+            <p>It was expected that upon this Order the Apothecaries (rather than the College ſhould make Medicines themſelves) would have ſo far concurred in this Charitable Work, as to have born their part therein: And that as we had freely offered our pains to pre<g ref="char:EOLhyphen"/>ſcribe for the Poor for nothing, ſo they would have given them <hi>their</hi> pains alſo, in furniſhing them with neceſſary Medicines at the Intrinſick Value, or at leaſt for ſome ſmall Profit. But inſtead of that, ſeveral amongſt them ſet themſelves by all the art and in<g ref="char:EOLhyphen"/>duſtry they were capable of, to fruſtrate the whole deſign; and finding no method ſo promiſing as to ſtir up a party among our ſelves to oppoſe our proceedings, they fell to intrigueing with ſeveral of our own Members, who were too eaſily lured off to ſerve the Apothecaries intereſt, for their own private advantage. And from this cauſe, as we have too much reaſon to believe, have chiefly ſprung the unhappy Differences that are ſtill fomented among us.</p>
+            <p>But notwithſtanding all the diſcouragements we met with from thoſe of our own Members, who contrary to all the Obligations of Honour and Conſcience, conſtantly diſcovered to our Adverſaries whatſoever paſſed in the College relating to this deſign, and ex<g ref="char:EOLhyphen"/>poſed to them the Names of ſuch as were Promoters thereof, that they might be kept out, as far as in them lay, from all Patients where they ſhould be propoſed, and themſelves brought in; Theſe and ſeveral other difficulties were (though after a conſiderable
+<pb n="4" facs="tcp:50780:4"/>time intervening) at laſt broke through, and the College proceeded to enforce their former Order by another of the <hi>18th. March</hi> 1694. to this effect: <hi>Whereas in the year</hi> 1687. <hi>there was an Order made by the unanimous conſent of the College, obliging every Member there<g ref="char:EOLhyphen"/>of to give his Advice</hi> gratis <hi>in their reſpective Pariſhes in the Cities of</hi> London <hi>and</hi> Weſtminſter, <hi>and Suburbs thereof, to all Poor Sick, as ſhould be recommended to them for ſuch by the Rector, Vicar or Curate of the ſaid Pariſhes by Certificate under their Hands; which ſaid Order was preſented to the City: Now we judge it neceſſary that the ſaid Order be again preſented to the Lord Mayor, Court of Alder<g ref="char:EOLhyphen"/>men and Common Council, and do hereby again require ſtrict Obedi<g ref="char:EOLhyphen"/>ence from all our Members to the aforeſaid Order.</hi> And a Committee was then choſen by the College to take care of the managing this matter to the beſt advantage of the deſigned Charity (conſiſting of the Elects, Cenſors and 8. Fellows, whereof 5. to be a Committee.</p>
+            <p>This Order was accordingly preſented to the Lord Mayor, Court of Aldermen and Common Council, <hi>June</hi> 18. 1695. Upon which the Common Council did nominate, appoint and chooſe Sir <hi>John Moor,</hi> Sir <hi>William Hedges</hi> and Sir <hi>Joſ. Smart,</hi> Aldermen; Mr. <hi>Dor<g ref="char:EOLhyphen"/>vile,</hi> Mr. <hi>Ballow,</hi> Mr. <hi>Eggleſtone,</hi> Sir <hi>Edmund Wiſeman,</hi> Mr. <hi>Richer,</hi> and Mr. <hi>Palfreman,</hi> Commoners, (whereof any one of the ſaid Al<g ref="char:EOLhyphen"/>dermen, and two of the ſaid Commoners, to be a Committee) to return the Thanks of that Court to the College of Phyſicians for ſuch their Order, and with them to conſult how to improve the ad<g ref="char:EOLhyphen"/>vantage propoſed by the ſaid College for the relief of the ſaid poor Inhabitants.</p>
+            <p>
+               <hi>July 24th.</hi> The Committee of the City and College met, where the Thanks of the Lord Mayor, Court of Aldermen and Common Council, was returned to the College of Phyſicians for their Chari<g ref="char:EOLhyphen"/>table Order.</p>
+            <p>The Committee of the College delivered in a Liſt of the Names of all their Members, with the places where they lived, which was deſired by the City to be printed.</p>
+            <p>Then the Committee of the City made ſeveral Propoſals or Queries; as Firſt, Who ſhould be recommended as fitting objects of this Charity? Secondly, Who ſhould be the Perſons, that ſhould make up the Phyſicians Preſcriptions, in the ſeveral Wards and Pa<g ref="char:EOLhyphen"/>riſhes of the City? Thirdly, Who ſhould price the Medicines pre<g ref="char:EOLhyphen"/>ſcribed by the Phyſicians Bills?</p>
+            <pb n="5" facs="tcp:50780:4"/>
+            <p>After which they with the College-Committee, paſſing over the firſt Propoſal (which was ſufficiently anſwered by the College's Or<g ref="char:EOLhyphen"/>der) proceeded to debate the ſecond and third, and came to this Reſolution, That ſome Apothecaries ſhould be found out who ſhould ſupply the Poor with Medicines at ſuch Rates as ſhould be adjudg<g ref="char:EOLhyphen"/>ed reaſonable by the Phyſicians, in or near the ſeveral Pariſhes; which the Committee of the City earneſtly recommended to the Phy<g ref="char:EOLhyphen"/>ſicians to take care of, and promiſed that they would doe the ſame on their part.</p>
+            <p>Upon this the Committee of the College applyed themſelves with great diligence to anſwer the ſaid deſire of the City-Committee, and after ſome time found out ſeveral honeſt and charitable Apothe<g ref="char:EOLhyphen"/>caries, who very cheerfully and readily embraced the offer, and at the ſolicitation of the Phyſicians, entred into this following Subſcripti<g ref="char:EOLhyphen"/>on: <hi>We whoſe names are here underwritten are willing to furniſh the Poor, within our reſpective Pariſhes, with Medicines at ſuch Rates as the Committee of Phyſicians ſhall judge reaſonable. Witneſs our hands.</hi> Which ſubſcription we have now by us, but for the Subſcribers ſakes, do not divulge their Names.</p>
+            <p>When the Committee of the College had got a ſufficient number of Apothecaries, to furniſh all the Wards of <hi>London,</hi> they acquainted the Committee of the City therewith, requeſting them at the ſame time, that they would for their Encouragement, endeavour to have an Act paſſed in the Common Council, to excuſe theſe Charitable Apothecaries from any troubleſome Office.</p>
+            <p>Then the Committee of the City did deſire the College-Commit<g ref="char:EOLhyphen"/>tee to get a further Addition to their former Order, whereby the Churchwardens and Overſeers of the Poor, or any of them, might as well as the Miniſters, recommend by Certificate, fit Objects of Charity, as alſo that all hired Servants, and Apprentices to Handi<g ref="char:EOLhyphen"/>crafts men, ſhould be reckoned as Objects of Charity; which the Committee of the College promiſed to endeavour.</p>
+            <p>Now the College thought they had ſurmounted all Difficulties, and had attained their end: But the Apothecaries Company having got knowledge of our Meeting with a Committee of the City, did not only draw up and preſent a Paper to the Committee of the City tending wholly to fruſtrate the charitable ends of our deſign, which was ſufficiently anſwered Article by Article, by the Com<g ref="char:EOLhyphen"/>mittee
+<pb n="6" facs="tcp:50780:5"/>of the College, Copies of both which are hereafter inſerted; but alſo hearing that the Committee of Phyſicians had gotten Apo<g ref="char:EOLhyphen"/>thecaries enough to ſupply this Charity, they were extreamly alarmed, and preſently called a Hall, wherein partly by threatning to im<g ref="char:EOLhyphen"/>poſe upon them the moſt troubleſome and expenſive Offices of their Company, and partly by charging them upon this compliance with the Phyſicians, with breach of their Oaths to their Company, they affrighted moſt of theſe Apothecaries from this undertaking, as if their Oath obliged them, Not to do any thing charitably.</p>
+            <p>
+               <hi>September the 4th.</hi> 1695. The College made ſuch addition to their Order as the City-Committee had deſired. At which Meeting the College did likewiſe approve and confirm all that had been done by their Committee, giving them thanks for the care and trouble they had already taken, and deſiring them to proceed and perfect this charitable Work: owning and declaring all that the Com<g ref="char:EOLhyphen"/>mittee had done to be the Act of the College, and not the Act of Six or Seven men, as ſome had induſtriouſly though falſely given out, and that the College would accordingly ſtand by their Com<g ref="char:EOLhyphen"/>mittee in what they had done.</p>
+            <p>At the next Meeting of the Committees, the addition by the Col<g ref="char:EOLhyphen"/>lege to their former Order deſired by the City-Committee, was delivered to them, who were much pleaſed therewith. Then they proceeded to conſider who ſhould price the Medicines. And the College-Committee was content (becauſe they would avoid every thing that might obſtruct this deſigned Charity) that the Maſter and Wardens of the Apothecaries Company ſhould do it every Year, and afterwards bring it to the Preſident and Cenſors of the College for their Approbation: but even this was alſo oppo<g ref="char:EOLhyphen"/>ſed by the Apothecaries Company.</p>
+            <p>Thus it appearing that the Apothecaries were reſolved to obſtruct this Charity in every particular, the City-Committee ask'd the Phyſicians then preſent, Whether their College would provide Me<g ref="char:EOLhyphen"/>dicines for the Poor at reaſonable Rates, if the Apothecaries ſhould continue to refuſe ſo to do? To which they anſwered, That they believed, rather than ſo Charitable a deſign ſhould fail, the College would undertake it; and promis'd that they would propoſe it at their next publick College-meeting.</p>
+            <pb n="7" facs="tcp:50780:5"/>
+            <p>Hereupon the City-Committee being fully ſatisfied with the Phyſicians Anſwers to their Propoſals, and with their ſincerity in tranſacting this whole affair with them, as alſo that the methods offered by them were the moſt proper for obtaining the end propo<g ref="char:EOLhyphen"/>ſed, drew up a Report accordingly, of the whole matter, which the Chairman Sir <hi>William Hedges</hi> offered to read at the next Com<g ref="char:EOLhyphen"/>mon Council: but ſome affair that required a quicker diſpatch in<g ref="char:EOLhyphen"/>tervening, it was put off for that time; and this happening at the latter end of the year, the Common Council was not long after of courſe diſſolved, and another choſen, in which ſeveral of the then Committee were left out; which probably was the cauſe that this Report was never after called for.</p>
+            <p>The matter reſting thus, and the College being in expectation to hear from the City, they did nothing further in it till <hi>Decemb.</hi> 22. 1696. when a Propoſition was made in the publick College for a Subſcription by the Fellows, Candidates and Licentiates, for carrying on this Charity, which being therein approved, (about nine or ten only diſſenting) a Subſcription to the effect following was immediately made.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="philanthropic_proposal">
+                        <p>WHereas the ſeveral Orders of the College of Phyſicians <hi>London,</hi> for preſcribing Medicins <hi>gratis</hi> to the Poor Sick of the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and parts adjacent, as alſo the Propoſals made by the ſaid College to the Lord Mayor, Court of Aldermen and Common Council of <hi>London,</hi> in purſuance thereof, have hitherto been ineffectual, for that no method hath been taken to furniſh the Poor with Medicins for their Cure at low and reaſonable rates: We therefore whoſe names are here underwritten, Fellows or Members of the ſaid College, being willing effectually to promote ſo great a Charity, by the Counſel and good liking of the Preſident and College declared in their <hi>Comitia,</hi> hereby (to wit, each of us ſeverally and apart, and not the one for the other of us) do oblige our ſelves to pay to <hi>Dr. Thomas Bur<g ref="char:EOLhyphen"/>wel,</hi> Fellow and Elect of the ſaid College, the ſum of Ten Pounds a<g ref="char:EOLhyphen"/>piece of Lawful Money of <hi>England,</hi> by ſuch proportions, and at ſuch times as to the major part of the Subſcribers hereto ſhall ſeem moſt convenient: Which Money when received by the ſaid <hi>Dr. Thomas
+<pb n="8" facs="tcp:50780:6"/>Burwel,</hi> is to be by him expended in preparing and delivering Medi<g ref="char:EOLhyphen"/>cins to the Poor at their intrinſick Value, in ſuch manner, and at ſuch Times, and by ſuch Orders and Directions, as by the major part of the Subſcribers hereto, ſhall in Writing be hereafter appointed and directed for that purpoſe.</p>
+                        <closer>
+                           <dateline>In Witneſs whereof we have hereunto ſet our Hands and Seals
+<date>this Twenty Second Day of <hi>December, 1696.</hi>
+                              </date>
+                           </dateline>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>Tho. Millington,</hi> Praeſes.</item>
+                                 <item>
+                                    <hi>Tho. Burwell,</hi> Elect and Cenſor.</item>
+                                 <item>
+                                    <hi>Sam. Collins,</hi> Elect.</item>
+                                 <item>
+                                    <hi>Edw. Browne,</hi> Elect.</item>
+                                 <item>
+                                    <hi>Rich. Torleſs,</hi> Elect and Cenſor.</item>
+                                 <item>
+                                    <hi>Edw. Hulſe,</hi> Elect.</item>
+                                 <item>
+                                    <hi>Tho. Gill,</hi> Cenſor.</item>
+                                 <item>
+                                    <hi>Will. Dawes,</hi> Cenſor.</item>
+                                 <item>
+                                    <hi>Jo. Hutton.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Rob. Brady.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Hans Sloane.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Rich. Morton.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>John Hawys.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Ch. Harel.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Rich. Robinſon.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Joh. Bateman.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Walter Mills.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Dan. Coxe.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Henry Sampſon.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Thomas Gibſon.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Charles Goodall.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Edm. King.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Sam. Garth.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Barnh. Soame.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Denton Nicholas.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Joſeph Gaylard.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>John Woollaſton.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Steph. Hunt.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Oliver Horſeman.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Rich. Morton,</hi> Jun.</item>
+                                 <item>
+                                    <hi>David Hamilton.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Hen. Morelli.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Walter Harris.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Briggs.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Th. Colladon.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Martin Liſter.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Jo. Colbatch.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Bernard Connor.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>W. Cockburn.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>J. le Feure.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>P. Sylveſtre.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Cha. Morton.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="9" facs="tcp:50780:6"/>
+            <p>THIS Inſtrument being thus ſubſcribed by the Preſident, the Cenſors, all the Elects, but two, moſt of the Senior Fellows, and ſeveral of the Candidates and Licentiates; a College was called, That a Grant might be forthwith made by way of Leaſe to the Subſcribers, of the Laboratory, and other Rooms and conve<g ref="char:EOLhyphen"/>niencies neceſſary for executing the intended charitable deſign. Which, notwithſtanding the oppoſition of ſome few, was by a very great majority granted, and afterwards ſealed in open College. And now the Laboratory, Repoſitory, <hi>&amp;c.</hi> are preparing with all imaginable expedition, that ſo the benefit of the preſent ſeaſon for making all ſorts of neceſſary Medicines for the uſe of the Sick Poor may not be loſt, but that we may be in a condition ſhortly to re<g ref="char:EOLhyphen"/>ceive, make up, and diſtribute, all ſuch Bills and Preſcriptions as ſhall be directed to the Repoſitory by ſuch Phyſicians as have been ſo charitable as to ſubſcribe to this Undertaking for the benefit of their Poor Sick Neighbours.</p>
+            <p>Here follow the ANSWERS offered by the Apothecaries to the Propoſals of the City-Committee, with the Phyſicians Reply thereunto.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="apothecaries_response">
+                        <head>ANSWERS humbly offered by the Society of Apothecaries, to the Propoſals made by the Worſhipful the Committee ap<g ref="char:EOLhyphen"/>pointed by Common Council to treat with the Phyſicians in relation to the Poor.</head>
+                        <p>THAT in purſuance of your Worſhips Directions, We the Maſter, Wardens and Aſſiſtants of the ſaid Society have maturely conſidered the Propoſals to us made. And in the firſt place crave leave to return our Thanks and due acknowledgment to this Committee, for communicating the ſaid matters and Propoſals of the Phyſicians to us, and do moſt willingly take this opportu<g ref="char:EOLhyphen"/>nity to declare, That as we eſteem it our principal Glory to be Members of this great and honourable City, ſo we ſhall be ever ready to contribute to the utmoſt of our Power to the Honour and Welfare thereof, or any the Members depending thereon. And to that end,</p>
+                        <div n="1" type="answer">
+                           <pb n="10" facs="tcp:50780:7"/>
+                           <head>
+                              <hi>To the Firſt Propoſal,</hi> Who may be fitteſt perſons to recommend the Objects of Charity?</head>
+                           <p>WE take it, That the Miniſter, Churchwardens, and Over<g ref="char:EOLhyphen"/>ſeers of the Poor in each Pariſh are the moſt fit, as beſt knowing the Poor and their neceſſity.</p>
+                        </div>
+                        <div n="2" type="answer">
+                           <head>
+                              <hi>To the Second,</hi> Who ſhall adminiſter the Phyſick, <hi>&amp;c?</hi>
+                           </head>
+                           <p>WE do with ſubmiſſion think it moſt convenient, That it be left to every Pariſh from time to time to make uſe of what Apothecary they pleaſe, being a Freeman, within their own Pariſh, either one or more, according to the ſmalneſs or largeneſs thereof. And in caſe any Pariſh be without an Apothecary, then to take any neighbouring Freeman as they ſhall think fit.</p>
+                        </div>
+                        <div n="3" type="answer">
+                           <head>
+                              <hi>To the Third,</hi> Who ſhall price the Medicines delivered for the uſe of the Poor?</head>
+                           <p>WE are humbly of opinion, That every man in his own way is beſt able to make his own Bill, and hope it will be ſuffi<g ref="char:EOLhyphen"/>cient ſatisfaction in this point, that we undertake, That all our Members ſhall uſe the greateſt moderation poſſible; and in caſe any diſpute ariſe, That then as to all Medicines delivered to the uſe of ſuch Poor for whom the Churchwardens of each Pariſh ſhall be ob<g ref="char:EOLhyphen"/>liged to pay, the price ſhall be regulated to the intrinſick value of every Medicine by the Maſter and Wardens for the time being.</p>
+                           <p>And for the better promoting ſo good a work, the Maſter, War<g ref="char:EOLhyphen"/>dens and Aſſiſtants of this Company do further offer, not only from time to time, to ſell ſuch Poor their Medicines when preſcribed by a Phyſician at their intrinſick value, but (if it may be acceptable and approved of by an Order of this Honourable Court) <hi>They will</hi> being thereto ſummoned by the Churchwardens or Overſeers of any Pariſh in the abſence of a Phyſician, and until one can be called in, <hi>give them all the aſſiſtance they are capable of, by adminiſtring ſuch Remedies as may be neceſſary, and that without reward or pay<g ref="char:EOLhyphen"/>ment either for Pains or Medicines.</hi>
+                           </p>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <div type="physicians_response">
+               <pb n="11" facs="tcp:50780:7"/>
+               <head>The Opinion of the Committee of the College of Phyſicians con<g ref="char:EOLhyphen"/>cerning the <hi>Anſwer</hi> of the Apothecaries to the <hi>Propoſals</hi> made to them by the Worſhipful the Committee appointed by com<g ref="char:EOLhyphen"/>mon Council to treat with the Phyſicians in relation to the Poor.</head>
+               <p>TO the <hi>Firſt Propoſal</hi> we agree, <hi>viz.</hi> That the Miniſters, Church<g ref="char:EOLhyphen"/>wardens and Overſeers of the Poor of each Pariſh do recom<g ref="char:EOLhyphen"/>mend to the Phyſicians ſuch as they ſhall judge <hi>Objects of Charity.</hi>
+               </p>
+               <p>To the <hi>Second,</hi> We think it moſt proper that the Common Coun<g ref="char:EOLhyphen"/>cil ſhould chuſe and appoint one or more Apothecaries, being Free<g ref="char:EOLhyphen"/>men, in each Pariſh or Ward, or any Neighbouring Apothecaries, if the Pariſh or Ward be without one; and that the Shops of ſuch Apothecaries be diſtinguiſh'd by ſome Inſcription, or other Mark, whereby they may be publickly known to the Phyſicians and Poor. Provided that no Apothecary be ſo appointed, nor continued in that imploy, who has done, or ſhall do any thing to prejudice or affront the City, or College of Phyſicians.</p>
+               <p>To the <hi>Third,</hi> We humbly conceive the Anſwer of the Apothe<g ref="char:EOLhyphen"/>caries to be unſatisfactory, both in relation to the Almes-poor, and the Poor Inhabitants. Becauſe <hi>Firſt,</hi> For the <hi>Alms-poor</hi> it ſets no certain price upon their Medicines, but only allows, That if the Pariſh be diſſatisfied with the Rates of any Medicines, then upon application made to the Maſter and Wardens for the time being, thoſe Medicines for that time ſhall by them be rated at the intrin<g ref="char:EOLhyphen"/>ſick value, and ſo <hi>toties quoties.</hi> Now we judge this Branch of their Propoſal inconvenient to the Pariſhes for theſe Reaſons.</p>
+               <list>
+                  <item>1. Becauſe the Churchwardens and Overſeers of the Poor be<g ref="char:EOLhyphen"/>ing ſuppoſed to have no skill in the prices of Druggs and Medi<g ref="char:EOLhyphen"/>cines, cannot tell when they are well, or ill uſed therein, and con<g ref="char:EOLhyphen"/>ſequently know not when to complain.</item>
+                  <item>2. Becauſe, If they did know, that yet ſuch frequent Applica<g ref="char:EOLhyphen"/>tions (as it is poſſible there may be occaſion for) will be burthen<g ref="char:EOLhyphen"/>ſome to them; beſides that they may be unwilling to diſoblige their Neighbour Apothecaries by complaining of them.</item>
+                  <pb n="12" facs="tcp:50780:8"/>
+                  <item>3. Becauſe the Pariſhes cannot judge of the charge they are likely to be at upon the account of any Alms-Poor; But if either a certain Intrinſick Rate, or a moderate Profit be put upon Medicines, then all theſe inconveniences will be prevented.</item>
+               </list>
+               <p>But then <hi>Secondly,</hi> as for the <hi>Poor Inhabitants;</hi> it ſeems to us yet more neceſſary, that a certain moderate Price be from time to time (as Druggs ſhall conſiderably riſe or fall) put upon the Medi<g ref="char:EOLhyphen"/>cines, for theſe Reaſons.</p>
+               <list>
+                  <item>1. Becauſe then ſuch Poor Patients may certainly know from the Phyſician the Price of any Medicines preſcribed for them, and ſo may be incouraged to take them. Whereas, if when they have a Bill from the Phyſician, they be ſtill left to the diſcretion of the Apothecary, the Price may prove too high for their Purſes, and they by this means be defeated of their Health, and the Charity intended.</item>
+                  <item>2. Becauſe Poor Patients ignorant of the Price of the Medicines ordered for them, cannot tell when they are charitably uſed, or otherwiſe; and conſequently cannot complain of ſuch Apothecaries as ſhall exact upon them.</item>
+                  <item>3. Becauſe the Apothecaries cannot then claſh amongſt them<g ref="char:EOLhyphen"/>ſelves, nor be cenſured by the Patients, upon the account that one fells his Medicines dearer, and another cheaper; nor on the other hand can they agree together to raiſe their Medicines above the pur<g ref="char:EOLhyphen"/>chace of ordinary Poor Perſons, which they may otherwiſe inſenſibly do, and ſo make this publick Charity ineffectual by degrees.</item>
+                  <item>4. We conceive this to be the beſt, if not the only way for the Apo<g ref="char:EOLhyphen"/>thecaries to demonſtrate to this City, That they are in earneſt (as no queſtion divers good men among them are) when they offer ſo free<g ref="char:EOLhyphen"/>ly to concur in this publick Charity. For whilſt they are left to their own Prices, it cannot be certain and clear, whether they are Charitable therein or no; but when the moderateneſs of their Rates is once fixed and certainly known to be ſo, their Charity will then be beyond ſuſpicion and contradiction.</item>
+               </list>
+               <p>In the mean time we are much miſrepreſented, if we be thought deſirous arbitrarily to fix the Prices of the Medicines: We are very
+<pb n="13" facs="tcp:50780:8"/>willing the Apothecaries ſhould do it themſelves: Only we think it highly neceſſary, both for their Credit, and the Service, as well as ſatisfaction of the City, That a Committee of the College (whom the like ſervice done the Publick both in the Armies and Navies de<g ref="char:EOLhyphen"/>monſtrate to be competent Judges in this matter) ſhould agree to, and approve of thoſe Rates as moderate and charitable.</p>
+               <p>Wherefore we cannot but here expreſs our ſelves doubtful of the Apothecaries Sincerity in this matter, not only becauſe when this Propoſal was Seven Years ago offered to this City, they then made not the leaſt ſtep to comply therewith: but alſo becauſe at this time when ſeveral charitably diſpoſed Members of their Body offered to concurr with the College of Phyſicians in this good work, they did publickly in their Common Hall, threaten and intimidate them, pretending that any compliance herein with the Phyſicians in agreeing to the Rates of Medicines, would be againſt their Oaths. Whereas indeed it is ſo far from being ſo, that divers eminent perſons amongſt them, have for their profit in making Medicines for the Armies and Navies, ſeveral times, freely and without ſcruple conſented thereto. And we doubt not but if this City will ſo far influence the Apothecaries as to take off the terror they are now under, that there will appear a ſufficient number of charitable per<g ref="char:EOLhyphen"/>ſons amongſt them, very ready to ſerve in this Charity.</p>
+               <p>As to the Offer they make in <hi>preſcribing Medicines to the Poor in the abſence of a Phyſician gratis,</hi> if it may be approved by an Order of this Court: We are ſorry to meet with ſo clear a proof of their great Ambi<g ref="char:EOLhyphen"/>tion to meddle with what belongs not to them, to ſet themſelves up for Phyſicians, and run themſelves into practice upon pretence of Cha<g ref="char:EOLhyphen"/>rity to the Poor; for otherwiſe in the abſence of one Phyſician, there is no need of running to an Apothecary, ſince another in that caſe may be called: nor can we imagine why they ſhould be will<g ref="char:EOLhyphen"/>ing to give their Medicines <hi>gratis,</hi> whilſt they practiſe themſelves, and not ſo after a Phyſician is called in, if they did not intend prac<g ref="char:EOLhyphen"/>tice thereby, and to hinder a Phyſicians being ſent for: this ſeems to be ſomething elſe than meer Charity. And for any Order of this Court to authoriſe them to practiſe upon the Poor, we conceive it wholly improper: for in Caſes of great and urgent neceſſity, not only any Apothecary, but any perſon that thinks he can do his poor ſick Neighbour good, may do it ſafely without any ſuch Order;
+<pb n="14" facs="tcp:50780:9"/>and for giving Licence to practiſe in other Caſes, the Laws of the Land have ſetled that wholly in the College of Phyſicians. And therefore we deſire that all Certificates for the Poor, be immediately directed and ſent to the Phyſicians from the Officers of the Pariſhes, ſo that if any Phyſician ſhall find that an Apothecary without urgent neceſſity (as that Phyſician conceives,) has preſcribed to the Poor Patient, he ſhall not be obliged to take care of that Patient.</p>
+               <p>Therefore upon the whole we humbly offer this as our opinion to this worſhipful Committee, That the only way to make this publick Charity effectual is, That the Miniſter, Church-wardens and Overſeers of the Poor, do recommend all charitable Objects immediately to the Phyſicians; That the Common Council do reſpectively chuſe fitting perſons in each Pariſh to be the known Apothecaries for the Poor; And that moderate and charitable Rates be fixed upon all Simples and compounded Medicines of the <hi>London Diſpenſatory</hi> by the Apothecaries (if they like it beſt) to be agreed to, and approved by a Committee of the Phyſicians, and known only to the Phyſicians, and themſelves, and that only for the Publick benefit of the Poor of the City.</p>
+               <p>Laſtly, we judge this propoſal of fixing a certain Rate upon the Diſpenſatory-Medicines both ſo reaſonable, and ſo abſolutely ne<g ref="char:EOLhyphen"/>ceſſary for the attaining the end deſigned in this publick Charity, that if the Apothecaries do refuſe to agree thereto, rather than it ſhould fail, we make no queſtion but that the College of Phyſicians will undertake it themſelves, and Print the Rate of their Medicines for the ſatisfaction of the Publick.</p>
+               <p>Theſe <hi>two</hi> foregoing <hi>Papers</hi> were reſpectively delivered to the Committee of the City during the Treaty between them and the College in the year 1695.</p>
+               <p>And now we deſire leave from the foregoing Hiſtory and Papers to make theſe following Obſervations.</p>
+               <list>
+                  <item>1. That this great Charity was long ago ſet on foot, before any differences were ariſen either amongſt our Selves or with the Apo<g ref="char:EOLhyphen"/>thecaries as to theſe matters; and therefore is neither a raſh nor
+<pb n="15" facs="tcp:50780:9"/>haſty undertaking, nor entred upon with any intention to injure any body, or with any other ſiniſter deſign, but out of meer Charity.</item>
+                  <item>2. That it was at firſt <hi>unanimouſly</hi> undertaken, and the ſame rea<g ref="char:EOLhyphen"/>ſons for it ſtill continuing that at firſt moved us to it, thoſe that now oppoſe it amongſt our ſelves muſt neceſſarily do ſo for their private advantage, and the benefit of ſuch as they are pleaſed to favour.</item>
+                  <item>3. That all that was at firſt and for a great while after thought of in this Undertaking, was only to do our parts to the Sick Poor in preſcribing to them <hi>gratis,</hi> not doubting then but the Apotheca<g ref="char:EOLhyphen"/>ries would do theirs, in concurring with us to afford them their Medicines at low and moderate Rates.</item>
+                  <item>4. That to incourage them to do ſo, the Committee not only conſented that the Maſter and Wardens themſelves ſhould price the Medicines (with the approbation of the College) but that ſuch prices ſhould be kept private, leſt (as we ſuppoſed they chiefly fear'd) the rich coming thereby to underſtand at what Rates their Medicines might be afforded, ſhould ſee clearly into their unreaſonable Gains, and ſo bring down the exceſſive Rates of their Bills.</item>
+                  <item>5. That the reaſons which have induced the College to undertake the making up of Medicines for the Sick Poor, themſelves, are as well their willingneſs to comply with the propoſal hereof made by the City-Committee, as the neceſſity put upon them by the Apothecaries, who (as appears in the foregoing Hiſtory) would not conſent to any reaſonable and ſatisfactory way of their own doing it. Beſides that in their Anſwers to the City they did not take notice of any, but the meer <hi>Alms-Poor;</hi> whereas one main deſign of the College was to provide for <hi>Poor Houſekeepers,</hi> and their Families that did not receive Alms.</item>
+                  <item>6. And therefore if the Apothecaries come to any prejudice thereby at preſent, or in times to come, they muſt wholly blame themſelves for it, and not the College, who were very far from intending them any harm by their Charity to others: But it is not reaſonable that a work ſo highly commendable in it ſelf, and ſo be<g ref="char:EOLhyphen"/>neficial to the Poor Sick of this City and Suburbs, ſhould miſcarry, only to gratifie their humour and private intereſt.</item>
+                  <pb n="16" facs="tcp:50780:10" rendition="simple:additions"/>
+                  <item>7. However we hope this Undertaking will do the honeſt cha<g ref="char:EOLhyphen"/>ritable Apothecaries no real injury, ſince we intend not to retail ſingle Medicines, but to write preſcriptions for the Sick Poor, to which every Phyſician ſo preſcribing ſhall underwrite the price of the Medicine, and the Patient to be at liberty to go either to any honeſt Apothecary that will faithfully make it up at that Rate, or to the College Repoſitory, where it will be ſo afforded. And certain<g ref="char:EOLhyphen"/>ly it will be no ſmall comfort to a Poor Patient to know preſently what his Phyſick will coſt him, and thereby to be freed from the dreadful apprehenſions of a chargeable and coſtly Bill, to be brought him afterwards by the Apothecary.</item>
+                  <item>8. Upon the whole, As the Subſcribers being conſcious to them<g ref="char:EOLhyphen"/>ſelves of their Sincerity and Integrity in this Undertaking, reſt aſſured of the favour and applauſe of all good men: ſo if any of their Enemies ſhall be ſo void not only of Charity, but even of all Modeſty, as to continue their oppoſition againſt it, they are con<g ref="char:EOLhyphen"/>fident that a deſign ſo apparently beneficial to the Publick good, will not want the Encouragement and Protection of thoſe in whoſe Power it is to give it.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
